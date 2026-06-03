@@ -38,7 +38,7 @@ as part of my cybersecurity learning journey.
 
 Start with `01-kernel-exploits` and work through 
 each folder in order. Each folder contains a write-up 
-with the concept explained, commands used and results.
+with the concept explained.
 
 ## Tools Used
 
